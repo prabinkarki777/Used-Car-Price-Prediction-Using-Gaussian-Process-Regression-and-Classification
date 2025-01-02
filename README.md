@@ -111,5 +111,5 @@ print(f"Predicted Price Category: {new_data_pred[0]}")
 - **Actual vs. Predicted Prices**:
   ![Scatter Plot](actual_vs_predicted_prices.png)
 - **Class Distribution**:
-  ![Class Distribution](class_distribution.png)
+  ![Class Distribution](class_distribution.jpg)
 
