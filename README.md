@@ -1,4 +1,4 @@
-# README
+# Used Car Price Prediction Using Gaussian Process Regression and Classification
 
 ## Overview
 This Python script is designed to preprocess and analyze a used car dataset. It includes data cleaning, visualization, regression, and classification models to predict car prices and categorize them into price categories.
